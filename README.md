@@ -1,4 +1,6 @@
-## Hi there 👋
+## I am Yoobin Lee
+
+Class of 2026 Informatics student at the University of Washington
 
 <!--
 **yl0517/yl0517** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

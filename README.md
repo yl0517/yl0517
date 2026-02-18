@@ -70,7 +70,7 @@ Worked on a graph management system for shipping rules & restrictions.
 
 ---
 
-## Skills Snapshot
+## Skills
 **Languages:** Go, Java, JavaScript/TypeScript, SQL, Python, C, Swift, Rust  
 **Backend:** Node.js, Next.js, Postgres, Prisma, oRPC, OpenAPI  
 **Frontend:** React, Svelte, HTML/CSS  

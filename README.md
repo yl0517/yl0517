@@ -23,6 +23,40 @@
 - Implemented S3-based image storage to keep **media separate from transactional data**
 - Wrote onboarding + local dev docs: Dockerized Postgres, migrations, dev server
 
+**Capstone progress**  
+This project focuses on refining the employee-facing interface for a local tool library. Our team is working on improving internal workflows so staff can more efficiently manage tools, inventory, memberships, and loan-related tasks.
+
+**Team process**
+- Conducted user research to better understand employee needs and pain points
+- Interviewed stakeholders to learn how the current workflow operates in practice
+- Designed and iterated on prototypes based on research findings and feedback
+- Defined and built an MVP that reflects the most important staff-facing workflows
+- Prepared to move from design and validation into implementation and final delivery
+
+**My contributions**
+- Helped connect product requirements from research and interviews to technical system design
+- Contributed to backend and API thinking around core entities such as tools, inventory items, members, and loans
+- Worked through architecture decisions related to type-safe interfaces, data organization, and storage boundaries
+- Supported project documentation and technical planning for onboarding, local development, and implementation
+- Collaborated across research, design, and engineering to keep the MVP practical and aligned with user needs
+
+**What I’m learning**
+- How to translate stakeholder feedback into scoped product and engineering decisions
+- How internal tools must balance usability, reliability, and maintainability
+- How backend design choices directly affect day-to-day employee workflows
+- How to collaborate effectively on a client-facing capstone project from research through delivery
+
+**Current status**
+- Completed research, interviews, prototype design, and MVP definition
+- Currently proceeding into development
+- Planning to deliver the final product over the next few weeks
+
+**Next steps**
+- Implement the MVP based on validated workflows and design decisions
+- Continue testing the product against employee needs during development
+- Deliver the final product and refine it based on feedback
+- Add final screenshots, outcomes, and technical details to this portfolio once the project is complete
+
 **Artifacts**
 - ✅ Architecture notes / schema diagrams: *(link if public; otherwise “available on request”)*
 - ✅ API docs: *(link if hosted)*
